@@ -4,3 +4,6 @@
 
 #How it works ?
 #icon name == folder name > icon sets to folder
+
+#demo
+https://www.youtube.com/watch?v=BvR-aimJR-U
